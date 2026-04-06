@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Ashutosh 👋</h1>
 
-<!--
-**ashutosh8950/ashutosh8950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1¢er=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer+in+the+Making;NLP+%7C+Deep+Learning+%7C+Data+Science;Building+things+that+think+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 Final-year **Computer Engineering** student @ **Thapar Institute, Patiala**
+- 🔭 Currently building: AI-powered tools using LLMs, NLP, and real-time ML pipelines
+- 🌱 Deep-diving into: **LLM fine-tuning**, **RAG systems**, and **MLOps**
+- 💬 Ask me about: Python, Machine Learning, NLP, Fraud Detection, or anything AI
+- 📫 Reach me: guptaashutosh8950@gmail.com
+- ⚡ Fun fact: I automated my own WhatsApp replies using LLaMA-3.3-70B 🤖
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**ML / AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [ShieldAI Fraud Detection](https://github.com/guptaashutosh8950) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
+| [Fake News Detector](https://github.com/guptaashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
+| [AI AutoReply Bot](https://github.com/guptaashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
+| [Fake News Generator](https://github.com/guptaashutosh8950) | GPT/T5 satirical headline generator | GPT, T5, Prompt Engineering |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaashutosh8950&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaashutosh8950&theme=tokyonight&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaashutosh8950&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Certifications
+- 📜 NLP Specialization — Coursera
+- 📜 Mastering Python — ap2v Academy
+- 📜 DSA in Python — Coding Ninjas
+- 📜 20+ Guided Projects — Coursera
+
+---
+
+<p align="center">
+  <a href="mailto:guptaashutosh8950@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/YOUR_HANDLE">💼 LinkedIn</a> •
+  <a href="https://github.com/guptaashutosh8950">🐙 GitHub</a>
+</p>
