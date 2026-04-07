@@ -1,4 +1,5 @@
 <h1 align="center">Hey there, I'm Ashutosh 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer+in+the+Making;NLP+%7C+Deep+Learning+%7C+Data+Science;Building+things+that+think+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
@@ -52,10 +53,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [ShieldAI Fraud Detection](https://github.com/guptaashutosh8950) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
-| [Fake News Detector](https://github.com/guptaashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
-| [AI AutoReply Bot](https://github.com/guptaashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
-| [Fake News Generator](https://github.com/guptaashutosh8950) | GPT/T5 satirical headline generator | GPT, T5, Prompt Engineering |
+| [ShieldAI Fraud Detection](https://github.com/ashutosh8950) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
+| [Fake News Detector](https://github.com/ashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
+| [AI AutoReply Bot](https://github.com/ashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
+| [Fake News Generator](https://github.com/ashutosh8950) | GPT/T5 satirical headline generator | GPT, T5, Prompt Engineering |
 
 ---
 
@@ -70,6 +71,6 @@
 
 <p align="center">
   <a href="mailto:guptaashutosh8950@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR_HANDLE">💼 LinkedIn</a> •
-  <a href="https://github.com/guptaashutosh8950">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/ashutosh-gupta-8a48722a7/">💼 LinkedIn</a> •
+  <a href="https://github.com/ashutosh8950">🐙 GitHub</a>
 </p>
