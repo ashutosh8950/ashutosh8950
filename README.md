@@ -57,7 +57,6 @@
 | [AI Resume Screener v2](https://github.com/ashutosh8950) | Resume-JD matcher with TF-IDF, Word2Vec & GPT suggestions | Streamlit, Gensim, Scikit-learn, OpenAI |
 | [Fake News Detector](https://github.com/ashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
 | [AI AutoReply Bot](https://github.com/ashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
-| [Fake News Generator](https://github.com/ashutosh8950) | GPT/T5 satirical headline generator | GPT, T5, Prompt Engineering |
 
 ---
 
