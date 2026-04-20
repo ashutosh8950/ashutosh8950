@@ -53,7 +53,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [ShieldAI Fraud Detection](https://github.com/ashutosh8950/ai-resume-screener) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
+| [ShieldAI Fraud Detection](https://github.com/ashutosh8950) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
 | [AI Resume Screener v2](https://github.com/ashutosh8950) | Resume-JD matcher with TF-IDF, Word2Vec & GPT suggestions | Streamlit, Gensim, Scikit-learn, OpenAI |
 | [Fake News Detector](https://github.com/ashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
 | [AI AutoReply Bot](https://github.com/ashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
