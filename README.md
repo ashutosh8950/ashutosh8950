@@ -48,9 +48,13 @@
 ## ⚡ Tech Stack
 
 ```bash
-Languages: Python | C++ | SQL | R  
-AI/ML: TensorFlow | PyTorch | Scikit-learn | NLP  
-Tools: Flask | FastAPI | Streamlit | Git | Jupyter  
+Languages: Python | C | C++ | SQL | R  
+
+Libraries: Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | TensorFlow | Keras | PyTorch  
+
+Developer Tools: Git | VS Code | Visual Studio | Jupyter Notebook  
+
+Coursework: AI | Machine Learning | Deep Learning | Data Science | Data Analysis | Data Mining | Statistics | Predictive Modelling | Data Visualization | Neural Networks | Big Data  
 ```
 
 ---
