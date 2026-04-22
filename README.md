@@ -1,76 +1,127 @@
-<h1 align="center">Hey there, I'm Ashutosh 👋</h1>
+<!-- 🔥 BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer+in+the+Making;NLP+%7C+Deep+Learning+%7C+Data+Science;Building+things+that+think+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ashutosh%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
+<h3 align="center">AI/ML Engineer | NLP & Fraud Detection | Building Production-Ready ML Systems</h3>
+
+---
+
+<!-- 🌐 PORTFOLIO -->
+
+<p align="center">
+  <a href="https://ashutosh8950.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<!-- 👀 VISITOR COUNT -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutosh8950&label=Profile%20Views&color=6366f1&style=flat"/>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Final-year **Computer Engineering** student @ **Thapar Institute, Patiala**
-- 🔭 Currently building: AI-powered tools using LLMs, NLP, and real-time ML pipelines
-- 🌱 Deep-diving into: **LLM fine-tuning**, **RAG systems**, and **MLOps**
-- 💬 Ask me about: Python, Machine Learning, NLP, Fraud Detection, or anything AI
-- 📫 Reach me: guptaashutosh8950@gmail.com
-- ⚡ Fun fact: I automated my own WhatsApp replies using LLaMA-3.3-70B 🤖
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Libraries & Frameworks**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Coursework**
-`AI` `Machine Learning` `Deep Learning` `Data Science` `Data Analysis` `Data Mining`
-`Statistics` `Predictive Modelling` `Data Visualization` `Neural Networks` `Big Data`
+* 🎓 Final-year **Computer Engineering** student @ Thapar Institute, Patiala
+* 🤖 Building **AI systems using LLMs, NLP & ML pipelines**
+* 🔬 Exploring: **RAG · Fine-Tuning · MLOps**
+* 💡 Interested in **real-world AI product development**
+* 📫 Email: **[guptaashutosh8950@gmail.com](mailto:guptaashutosh8950@gmail.com)**
+* 🌐 Portfolio: **https://ashutosh8950.github.io/Portfolio/**
 
 ---
 
-### 🚀 Featured Projects
+## 💼 What I Bring
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [ShieldAI Fraud Detection](https://github.com/ashutosh8950) | 97%+ accuracy fraud detector with live dashboard | Flask, RandomForest, Chart.js |
-| [AI Resume Screener v2](https://github.com/ashutosh8950) | Resume-JD matcher with TF-IDF, Word2Vec & GPT suggestions | Streamlit, Gensim, Scikit-learn, OpenAI |
-| [Fake News Detector](https://github.com/ashutosh8950) | ML classifier on WELFake dataset | TF-IDF, Word Embeddings, NLP |
-| [AI AutoReply Bot](https://github.com/ashutosh8950) | LLaMA-powered WhatsApp automation | Groq API, PyAutoGUI |
+* Strong foundation in **Machine Learning & NLP**
+* Experience building **end-to-end AI systems (model → API → UI)**
+* Hands-on with **real-world datasets & deployment**
+* Ability to convert ideas into **working AI products**
 
 ---
 
-### 🏆 Certifications
+## ⚡ Tech Stack
 
-- 📜 NLP Specialization — Coursera
-- 📜 Mastering Python — ap2v Academy
-- 📜 DSA in Python — Coding Ninjas
-- 📜 20+ Guided Projects — Coursera
+```bash
+Languages: Python | C++ | SQL | R  
+AI/ML: TensorFlow | PyTorch | Scikit-learn | NLP  
+Tools: Flask | FastAPI | Streamlit | Git | Jupyter  
+```
 
 ---
+
+## 🚀 Key Projects (Job-Relevant)
+
+### 🛡️ ShieldAI – Fraud Detection System
+
+* Built a **machine learning fraud detection system** with **97%+ accuracy**
+* Designed **real-time Flask API** for transaction risk prediction
+* Developed dashboard to monitor fraud trends and alerts
+  👉 Demonstrates: ML modeling, backend APIs, real-world deployment
+
+---
+
+### 📄 AI Resume Screener
+
+* Developed NLP system to match resumes with job descriptions
+* Used **TF-IDF + Word2Vec + GPT suggestions** for intelligent scoring
+* Built interactive dashboard for recruiters
+  👉 Demonstrates: NLP, embeddings, real-world AI application
+
+---
+
+### 📰 Fake News Detector
+
+* Trained ML models on **40K+ dataset** achieving ~99% accuracy
+* Implemented NLP preprocessing & ensemble learning
+  👉 Demonstrates: data handling, NLP pipeline, model optimization
+
+---
+
+### 🤖 AI AutoReply Bot
+
+* Built LLaMA-powered WhatsApp automation system
+* Designed **context-aware response system**
+  👉 Demonstrates: LLM usage, automation, prompt engineering
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh8950&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh8950&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh8950&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Certifications
+
+* NLP Specialization — Coursera
+* Mastering Python — ap2v Academy
+* DSA in Python — Coding Ninjas
+* 20+ Guided Projects — Coursera
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:guptaashutosh8950@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ashutosh-gupta-8a48722a7/">💼 LinkedIn</a> •
-  <a href="https://github.com/ashutosh8950">🐙 GitHub</a>
+  <a href="https://github.com/ashutosh8950">🐙 GitHub</a> •
+  <a href="https://ashutosh8950.github.io/Portfolio/">🌐 Portfolio</a>
 </p>
+
+---
+
+<p align="center">⚡ Turning ideas into intelligent systems</p>
