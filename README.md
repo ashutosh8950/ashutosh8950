@@ -47,6 +47,20 @@ I enjoy building systems that validate documents, extract signals from noisy inp
 
 ---
 
+## Experience
+
+### AI Trainee — Virves Software Solutions *(Remote, June–September 2026)*
+
+- Built a FastAPI backend that validates Aadhaar, PAN, and Driving License uploads using Tesseract-first hybrid OCR (EasyOCR fallback), OpenCV preprocessing, and explainable rule-based scoring with ACCEPTED, REJECTED, REUPLOAD_REQUIRED, and MANUAL_REVIEW outcomes.
+- Implemented document-type detection, number parsing, identity-field extraction, PAN holder-name matching, applicant tracking, manual-review APIs, and MongoDB/GridFS persistence.
+- Reduced redundant OCR work through staged candidates, resizing, rotation/crop deduplication, targeted field OCR, capped PAN OCR calls, and early exits; added pytest tests, synthetic benchmarks, and documentation.
+
+[Case Study](https://ashutosh8950.github.io/Portfolio/#virves-case-study) · [Internship Certificate](https://drive.google.com/file/d/1zNPHZZxacrnLfct-giRjf3FjCipIOEo_/view?usp=drivesdk)
+
+*Internship work: the source code is not public, and no identity-document images or applicant data are published. It is a prototype that checks document type, layout, and field patterns; it does not verify authenticity against issuer records.*
+
+---
+
 ## Core Stack
 
 <p align="center">
@@ -73,6 +87,22 @@ I enjoy building systems that validate documents, extract signals from noisy inp
 
 ## Featured Projects
 
+### Virves Multi-Document Validator
+
+Internship project: a document intake validation workflow for Aadhaar, PAN, and Driving License uploads, combining OCR, preprocessing, explainable scoring, persistence, and manual-review routing.
+
+**Tech Stack:** Python, FastAPI, Tesseract, EasyOCR, OpenCV, MongoDB/GridFS, pytest  
+**Highlights:**
+- hybrid OCR with EasyOCR fallback
+- four explainable decision outcomes including manual review
+- OCR cost reduced via staged candidates and early exits
+
+<p>
+  <a href="https://ashutosh8950.github.io/Portfolio/#virves-case-study"><img src="https://img.shields.io/badge/Case_Study-View-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+</p>
+
+---
+
 ### Resume Screener
 
 AI-powered resume and job description matcher that combines NLP, similarity scoring, and LLM-guided feedback to help users improve their job-fit profile.
@@ -81,11 +111,12 @@ AI-powered resume and job description matcher that combines NLP, similarity scor
   <img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/resume-screener-dashboard.png" width="88%" alt="AI Resume Screener Dashboard" />
 </p>
 
-**Tech Stack:** Python, Scikit-learn, Gensim, PyPDF2, OpenAI GPT, Streamlit, Plotly  
+**Tech Stack:** Python, Scikit-learn, Gensim, PyPDF2, OpenAI GPT-3.5, Streamlit, Plotly  
 **Highlights:**
-- built a resume–JD matching pipeline using TF-IDF, Word2Vec, and keyword overlap scoring
-- generated weighted match scores with skill-level breakdowns and actionable suggestions
-- created an interactive dashboard for screening and recruiter-style review
+- weighted match score combining TF-IDF similarity (35%), keyword match (35%), and Word2Vec semantic similarity (30%)
+- PDF resume parsing with PyPDF2 and batch comparison mode
+- GPT-3.5 generates five targeted resume-improvement suggestions after scoring
+- interactive Streamlit dashboard with Plotly charts
 
 <p>
   <a href="https://ai-resume-screener-w6h3.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit-00E676?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
@@ -104,14 +135,15 @@ A deployed fake-news classification system using NLP preprocessing, feature engi
 
 **Tech Stack:** Python, Scikit-learn, FastAPI, spaCy, TF-IDF, Ensemble ML, Render  
 **Highlights:**
-- trained and calibrated multiple classifiers on a large labeled corpus
-- achieved 98.4% held-out accuracy with a probability-averaging ensemble
-- built FastAPI endpoints for prediction, health checks, and model metadata
-- deployed a dark-mode dashboard for immediate demo use
+- trained and calibrated five classifiers (Logistic Regression, Decision Tree, Gradient Boosting, Naive Bayes, Linear SVC) on 24,353 labeled articles, with 20,700 for training and 3,653 held out
+- averaged calibrated probabilities to reach 98.44% held-out accuracy (Brier score 0.013835)
+- FastAPI service with Pydantic validation, rate limiting, Docker, GitHub Actions CI, and Render deployment
+- optional DistilBERT deep-analysis model hosted on Hugging Face (not part of the deployed ensemble path)
 
 <p>
   <a href="https://truthscan-fake-news-detector.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit-00E676?style=for-the-badge&logo=render&logoColor=white" /></a>
   <a href="https://github.com/ashutosh8950/fake-news-detector"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://huggingface.co/GuptaAshutosh/truthscan-fake-news-distilbert"><img src="https://img.shields.io/badge/Hugging_Face-Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
 
 ---
@@ -126,9 +158,10 @@ A transaction fraud detection workflow focused on classification, risk scoring, 
 
 **Tech Stack:** Python, Flask, Scikit-learn, Random Forest, SQLite, JavaScript, Chart.js  
 **Highlights:**
-- built a fraud-classification workflow using behavioral features and model evaluation
-- handled class imbalance and supportable decision logic for risk workflows
-- created a live dashboard and API-backed monitoring interface
+- Random Forest pipeline (StandardScaler + class-weight balancing) trained on a 10,000-row synthetic dataset with a 3% fraud rate
+- Flask REST API with SQLite persistence for transactions and alerts, including alert resolution
+- JavaScript dashboard with live KPIs and risk alerts
+- built on synthetic data to demonstrate the full pipeline; metrics are not real-world fraud performance
 
 <p>
   <a href="https://shieldai-fraud-detection.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit-00E676?style=for-the-badge&logo=render&logoColor=white" /></a>
@@ -147,14 +180,22 @@ A project and task management application built around workflow tracking, team v
 
 **Tech Stack:** Node.js, Express.js, PostgreSQL, REST APIs, JWT, Role-Based Access Control  
 **Highlights:**
-- built a dashboard for project tracking and task assignment
-- designed role-aware workflows for team operations and delivery visibility
-- focused on product usability alongside backend/API reliability
+- Express + PostgreSQL REST API for projects, tasks, and members
+- JWT authentication with an admin-only role guard
+- three-column Kanban view (To Do, In Progress, Done) and a project dashboard
+- security middleware (Helmet, rate limiting) and Render deployment
 
 <p>
   <a href="https://taskpilot-nvv5.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit-00E676?style=for-the-badge&logo=render&logoColor=white" /></a>
   <a href="https://github.com/ashutosh8950/TaskPilot"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## More Projects
+
+- **AI AutoReply ChatBot**: WhatsApp reply automation using LLaMA-3.3-70B via the Groq API with context-aware Hinglish replies — [github.com/ashutosh8950/AI-AutoReply-Chatbot](https://github.com/ashutosh8950/AI-AutoReply-Chatbot)
+- **Sales Forecasting API**: FastAPI forecasting service that selects between XGBoost, Prophet, and SARIMA by RMSE — [github.com/ashutosh8950/Sales-Forecasting-Api](https://github.com/ashutosh8950/Sales-Forecasting-Api)
 
 ---
 
@@ -167,13 +208,15 @@ A project and task management application built around workflow tracking, team v
 
 ---
 
-## Pinned Repositories
+## Repositories
 
-- [AI Resume Screener](https://github.com/ashutosh8950/ai-resume-screener)
-- [Fake News Detector](https://github.com/ashutosh8950/fake-news-detector)
-- [ShieldAI Fraud Detection](https://github.com/ashutosh8950/shieldai-fraud-detection)
+- [ai-resume-screener](https://github.com/ashutosh8950/ai-resume-screener)
+- [fake-news-detector](https://github.com/ashutosh8950/fake-news-detector)
+- [shieldai-fraud-detection](https://github.com/ashutosh8950/shieldai-fraud-detection)
 - [TaskPilot](https://github.com/ashutosh8950/TaskPilot)
 - [Portfolio](https://github.com/ashutosh8950/Portfolio)
+- [AI-AutoReply-Chatbot](https://github.com/ashutosh8950/AI-AutoReply-Chatbot)
+- [Sales-Forecasting-Api](https://github.com/ashutosh8950/Sales-Forecasting-Api)
 
 ---
 
@@ -188,6 +231,7 @@ A project and task management application built around workflow tracking, team v
 
 ## Connect
 
+- Resume: [ashutosh8950.github.io/Portfolio/assets/RESUME.pdf](https://ashutosh8950.github.io/Portfolio/assets/RESUME.pdf)
 - Portfolio: [ashutosh8950.github.io/Portfolio](https://ashutosh8950.github.io/Portfolio/)
 - LinkedIn: [im-ashutosh-gupta](https://www.linkedin.com/in/im-ashutosh-gupta/)
 - Email: [guptaashutosh8950@gmail.com](mailto:guptaashutosh8950@gmail.com)
