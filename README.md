@@ -195,7 +195,6 @@ A project and task management application built around workflow tracking, team v
 ## More Projects
 
 - **AI AutoReply ChatBot**: WhatsApp reply automation using LLaMA-3.3-70B via the Groq API with context-aware Hinglish replies — [github.com/ashutosh8950/AI-AutoReply-Chatbot](https://github.com/ashutosh8950/AI-AutoReply-Chatbot)
-- **Sales Forecasting API**: FastAPI forecasting service that selects between XGBoost, Prophet, and SARIMA by RMSE — [github.com/ashutosh8950/Sales-Forecasting-Api](https://github.com/ashutosh8950/Sales-Forecasting-Api)
 
 ---
 
@@ -216,7 +215,6 @@ A project and task management application built around workflow tracking, team v
 - [TaskPilot](https://github.com/ashutosh8950/TaskPilot)
 - [Portfolio](https://github.com/ashutosh8950/Portfolio)
 - [AI-AutoReply-Chatbot](https://github.com/ashutosh8950/AI-AutoReply-Chatbot)
-- [Sales-Forecasting-Api](https://github.com/ashutosh8950/Sales-Forecasting-Api)
 
 ---
 
