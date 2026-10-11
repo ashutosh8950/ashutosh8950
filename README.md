@@ -1,11 +1,13 @@
 <!-- GitHub Profile README for Ashutosh Gupta -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A14,45:101A3A,75:5B21B6,100:00E5FF&text=ASHUTOSH%20GUPTA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Applied%20AI%2FML%20Engineer%20%7C%20OCR%20%7C%20Vision%20%7C%20FastAPI&descSize=16&descAlignY=60" width="100%" alt="Ashutosh Gupta GitHub Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-light.svg?v=1">
+    <img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-dark.svg?v=1" alt="Ashutosh Gupta - Applied AI/ML Engineer" width="100%">
+  </picture>
 </p>
 
-<h1 align="center">Applied AI/ML Engineer</h1>
-<h3 align="center">OCR • Computer Vision • FastAPI • ML Systems • Deployed AI Products</h3>
 
 <p align="center">
   Building applied AI systems that turn model logic into reliable workflows, real product interfaces, and deployable solutions.
@@ -130,7 +132,7 @@ AI-powered resume and job description matcher that combines NLP, similarity scor
 A deployed fake-news classification system using NLP preprocessing, feature engineering, and ensemble modeling to predict article reliability.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/fake-news-detector-dashboard.png" width="88%" alt="Fake News Detector Dashboard" />
+  <img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/fake-news-detector-dashboard.png?v=2" width="88%" alt="Fake News Detector Dashboard" />
 </p>
 
 **Tech Stack:** Python, Scikit-learn, FastAPI, spaCy, TF-IDF, Ensemble ML, Render  
