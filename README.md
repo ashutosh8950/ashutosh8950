@@ -13,26 +13,12 @@
   Building applied AI systems that turn model logic into reliable workflows, real product interfaces, and deployable solutions.
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/im-ashutosh-gupta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ashutosh8950">
-    <img src="https://img.shields.io/badge/GitHub-ashutosh8950-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:guptaashutosh8950@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guptaashutosh8950%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br>
-
 <p align="center">
-  <a href="https://ashutosh8950.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/im-ashutosh-gupta/"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-linkedin.svg?v=1" alt="LinkedIn" height="44"></a>
+  <a href="https://github.com/ashutosh8950"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-github.svg?v=1" alt="GitHub" height="44"></a>
+  <a href="mailto:guptaashutosh8950@gmail.com"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-email.svg?v=1" alt="Email" height="44"></a>
+  <a href="https://ashutosh8950.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-portfolio.svg?v=1" alt="Portfolio" height="44"></a>
+  <a href="https://ashutosh8950.github.io/Portfolio/assets/RESUME.pdf"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-resume.svg?v=1" alt="Resume" height="44"></a>
 </p>
 
 ---
