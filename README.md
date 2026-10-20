@@ -1,23 +1,17 @@
 <!-- GitHub Profile README for Ashutosh Gupta -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-light.svg?v=3">
-    <img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/hero-dark.svg?v=3" alt="Ashutosh Gupta - Applied AI and Machine Learning Engineer" width="100%">
-  </picture>
+  <a href="https://ashutosh8950.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://ashutosh8950.github.io/Portfolio/assets/RESUME.pdf">Resume</a> ·
+  <a href="https://www.linkedin.com/in/im-ashutosh-gupta/">LinkedIn</a> ·
+  <a href="mailto:guptaashutosh8950@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/im-ashutosh-gupta/"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-linkedin.svg?v=3" alt="LinkedIn" height="44"></a>
-  <a href="https://ashutosh8950.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-portfolio.svg?v=3" alt="Portfolio" height="44"></a>
-  <a href="mailto:guptaashutosh8950@gmail.com"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-email.svg?v=3" alt="Email" height="44"></a>
-  <a href="https://ashutosh8950.github.io/Portfolio/assets/RESUME.pdf"><img src="https://raw.githubusercontent.com/ashutosh8950/ashutosh8950/main/assets/btn-resume.svg?v=3" alt="Resume" height="44"></a>
-</p>
+<h1 align="center">Ashutosh Gupta</h1>
 
-<h1 align="center">Hi, I'm Ashutosh Gupta 👋</h1>
+<p align="center"><strong>Applied AI/ML Engineer · OCR · Computer Vision · NLP · Python Backends</strong></p>
 
-<p align="center">Computer Engineer building applied AI/ML systems that turn messy inputs into reliable workflows, useful interfaces, and deployable products.</p>
+<p align="center">I build reliable AI systems that turn messy inputs into useful workflows, explainable decisions, and deployable products.</p>
 
 ```yaml
 name: Ashutosh Gupta

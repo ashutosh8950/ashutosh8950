@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 44" width="109" height="44" role="img" aria-label="GITHUB">
-<title>GITHUB</title>
-<rect x="1" y="1" width="107" height="42" rx="8" fill="#0A0A0C" stroke="#FF3B4D" stroke-opacity="0.35"/>
-<rect x="1" y="1" width="107" height="42" rx="8" fill="none" stroke="#FF3B4D" stroke-width="2" pathLength="100" stroke-dasharray="14 86"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="3s" repeatCount="indefinite"/></rect>
-<text x="16" y="27" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#FF3B4D">&gt;</text>
-<text x="34" y="27" textLength="57" lengthAdjust="spacing" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#F5F5F5">GITHUB</text>
-</svg>
